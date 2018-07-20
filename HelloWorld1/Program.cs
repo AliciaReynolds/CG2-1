@@ -11,7 +11,7 @@ namespace HelloWorld1
             string x = Console.ReadLine();
             Console.WriteLine("Please Type Your Last Name");
             string y = Console.ReadLine();
-            Console.WriteLine("Hello" + x + " " + y + "!");
+            Console.WriteLine("Hello" + " " + x + " " + y + "!");
             Console.ReadLine();
 
         }
